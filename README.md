@@ -9,3 +9,5 @@
 807# [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 
 938# [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+1021# [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
