@@ -9,5 +9,6 @@
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[NextPermutation.java](src/net/zackzhang/code/leetcode/problems/NextPermutation.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JewelsAndStones.java](src/net/zackzhang/code/leetcode/problems/JewelsAndStones.java)|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[MaxIncreaseToKeepCitySkyline.java](src/net/zackzhang/code/leetcode/problems/MaxIncreaseToKeepCitySkyline.java)|
+|849|[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)|[MaximizeDistanceToClosestPerson.java](src/net/zackzhang/code/leetcode/problems/MaximizeDistanceToClosestPerson.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[RangeSumOfBST.java](src/net/zackzhang/code/leetcode/problems/RangeSumOfBST.java)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[RemoveOutermostParentheses.java](src/net/zackzhang/code/leetcode/problems/RemoveOutermostParentheses.java)|
