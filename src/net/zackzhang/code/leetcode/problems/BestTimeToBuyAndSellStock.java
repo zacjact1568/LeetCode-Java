@@ -5,7 +5,7 @@ public class BestTimeToBuyAndSellStock {
 
     private int solution(int[] prices) {
         // 需要找最小价格之后的最大价格，它们的差就是所求
-        int minPrice = prices[0];
+        int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
         for (int price : prices) {
             if (price < minPrice) {
