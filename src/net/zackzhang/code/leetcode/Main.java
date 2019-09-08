@@ -5,6 +5,6 @@ import net.zackzhang.code.leetcode.problems.*;
 public class Main {
 
     public static void main(String[] args) {
-        ThreeSum.test();
+        RemoveNthNodeFromEndOfList.test();
     }
 }
