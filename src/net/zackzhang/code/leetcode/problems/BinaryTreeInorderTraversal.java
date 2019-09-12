@@ -1,20 +1,13 @@
 package net.zackzhang.code.leetcode.problems;
 
+import net.zackzhang.code.leetcode.common.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
 /** 94# 二叉树的中序遍历 */
 public class BinaryTreeInorderTraversal {
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     private List<Integer> solution(TreeNode root) {
         List<Integer> res = new ArrayList<>();

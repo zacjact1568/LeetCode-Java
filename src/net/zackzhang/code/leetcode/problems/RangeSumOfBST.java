@@ -1,13 +1,8 @@
 package net.zackzhang.code.leetcode.problems;
 
-public class RangeSumOfBST {
+import net.zackzhang.code.leetcode.common.TreeNode;
 
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
+public class RangeSumOfBST {
 
     /** 返回根节点为 root 的子树中节点值在 L 和 R 之间的值之和 */
     public int solution(TreeNode root, int L, int R) {

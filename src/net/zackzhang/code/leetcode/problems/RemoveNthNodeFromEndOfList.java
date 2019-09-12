@@ -1,15 +1,9 @@
 package net.zackzhang.code.leetcode.problems;
 
+import net.zackzhang.code.leetcode.common.ListNode;
+
 /** 19# 删除链表的倒数第N个节点 */
 public class RemoveNthNodeFromEndOfList {
-
-    private static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     private ListNode solution(ListNode head, int n) {
         // 添加辅助头节点

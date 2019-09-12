@@ -1,15 +1,9 @@
 package net.zackzhang.code.leetcode.problems;
 
+import net.zackzhang.code.leetcode.common.ListNode;
+
 /** 23# 合并K个排序链表 */
 public class MergeKSortedLists {
-
-    private static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     private ListNode solution(ListNode[] lists) {
         int len = lists.length;
